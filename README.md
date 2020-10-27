@@ -8,6 +8,59 @@ The data is already provided in `./data/Seinfeld_Scripts.txt` and you're encoura
 
 First we load the data and preprocess it. Please refer to `dlnd_tv_script_generation.ipynb` in thr project root for more information.
 
+# Generated Script
+    jerry: throwing me up.
+
+    jerry:(to george) you know, i don't know. i don't want to hear that. i think i am quitting.
+
+    kramer: yeah! i don't know. i mean, i don't think i should bid on that.
+
+    jerry:(to jerry) you see what?
+
+    george: oh, i was in charge to root tissue...
+
+    george: oh, yeah.
+
+    jerry:(to elaine) i don't know. i don't think we should just come out and get out of here.(jerry presses his hand to leave.) what do you mean?
+
+    elaine: you don't want to go.
+
+    george: i think i got that mustard stain in the lobby drawer.
+
+    jerry:(to jerry) hey, hey. you got any matches?! i thought i saw you.
+
+    elaine: you mean?!
+
+    elaine: i got a lot more responsibility to me!!
+
+    jerry: what do you mean?
+
+    elaine: what do you think? i didn't hear it.
+
+    newman: i don't want it.
+
+    jerry:(pointing) oh, you know, the faster landed in, it was a 5th avenue patient, and i got a memo- a memo- finish amsterdam and queen suffered construction sites.
+
+    jerry: what are you doing here?
+
+    george: i am. i defy you to get a better meal than you? i got the goods on the coffee table book?
+
+    elaine: i was just gonna tell ya, i don't know.
+
+    jerry: well, you know what, i urge a little girl. i could be ostracized.
+
+    jerry: i think you may be trusted.
+
+    jerry: i think i am going to be honest with you.
+
+    jerry: i know.
+
+    kramer:(to george) you know, i really don't have to get a better meal.
+
+    george: i don't think so.
+
+    jerry: what do you mean," scent of"
+
 # Hyper parameters
 
 ### sequence_length
